@@ -1,0 +1,6 @@
+# Local state file tracking already-posted articles (regenerated automatically)
+seen_articles.json
+
+# Python
+__pycache__/
+*.pyc
